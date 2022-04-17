@@ -1,0 +1,15 @@
+{
+  "name": "primate-json-store",
+  "version": "0.4.4",
+  "author": "Primate core team <core@primatejs.com>",
+  "homepage": "https://primatejs.com/modules/stores/json",
+  "bugs": "https://github.com/primatejs/primate-json-store/issues",
+  "repository": "https://github.com/primatejs/primate-json-store",
+  "description": "Primate JSON store",
+  "license": "BSD-3-Clause",
+  "peerDependencies": {
+    "primate": "^0.6.3"
+  },
+  "type": "module",
+  "exports": "./Store.js"
+}
